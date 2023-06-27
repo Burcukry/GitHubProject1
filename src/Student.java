@@ -4,6 +4,10 @@ public class Student {
             System.out.println("Hello");
 
         }
-
     }
+
+    void myMethod1(){
+        System.out.println("Hello");
+    }
+
 }
